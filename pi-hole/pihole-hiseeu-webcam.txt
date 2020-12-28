@@ -1,0 +1,14 @@
+api.icloseli.com
+arcsoft.com
+argus.icloseli.com
+esd.icloseli.com
+esd.stg.icloseli.cn
+relay.icloseli.com
+relaycn.closeli.com
+relayus-w.arcsoftcloud.com
+stun.closeli.com
+update.icloseli.com
+upns.icloseli.com
+xmpp.icloseli.com
+www.stg.arcsoftcloud.com
+
